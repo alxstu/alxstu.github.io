@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/alx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alxstu.com
+  * I am alx (https://keybase.io/alx) on keybase.
+  * I have a public key with fingerprint 6583 8FB2 9E63 CFF9 67AB  3139 27D8 5EE7 5CAF 2E97
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e1655eb798c71305a0c784fc65f04fadff6dba11de464462cd3047250f589f880a",
+            "fingerprint": "65838fb29e63cff967ab313927d85ee75caf2e97",
+            "host": "keybase.io",
+            "key_id": "27d85ee75caf2e97",
+            "kid": "0101e1655eb798c71305a0c784fc65f04fadff6dba11de464462cd3047250f589f880a",
+            "uid": "07d5cd6dcedb1fa03408e792d0fdc300",
+            "username": "alx"
+        },
+        "revoke": {
+            "sig_ids": [
+                "0030a1d853dfed01d7343934387118e82528ed26ebcb01322d3da10dddf8cb680f"
+            ]
+        },
+        "service": {
+            "hostname": "alxstu.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1453392881,
+    "expire_in": 157680000,
+    "prev": "8d84474c6e88d107d7b7a0f171f93db4372fcaee5f8e107932228604b48a760b",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMJuAnicrZJtaBxFGMfvckZpQFHU0hejZayW1DTM7OzuzB7BYqjYfrAIYqBN5Dov
+z+S2ud5edzfphWvAgg0VPStWKFaqLfRFKVSR9IOlvmtVKrUGG2xokCgKUkXSWqKC
+4mxU/OJHB4Zhnvk//+c3z8wH1xdybfn2PTOr4l3f1vNn3v1xKNd7sDDbQDLSI6jY
+QIMwv0BFQ5KWBkONiggTTID4ngeSBVwxQrEnsGLcNcr3DHaN0Mb4WgpCNLi+6/qO
+0hS7zPGw8XhgOMcCdSITVgcgrsVhNbW2vscpN9IJwKfKmMBnQlJCA4dp7gEwTwnj
+QMBsYjlKsgwLJ0UCXWFkY3ZTmsf7D/3/zD30lx3TntK+VqAlMQJTF3NggaOx0Ypi
+nAkTiKtiC1i1qNTRaCeKYTgahKylSThgeRNU7EMYUyyIpabagMZEM+rSwE7OCOHA
+Hc/hoB0fpJKYUMfRVAuCtdaGK+lzbNCj1tsWGw7VvHnWoH8LJ+lQl4q2WKBaHKWR
+iio2Xk7TWlLMmNKRWibcBrL0t0VJhlVtH8dmDEOchFEVFYlVqjTMPInrUfsunJNO
+BPVaGEMpzBQesyx2ZHVg2FpyzV2XucoHzjWxDWOSCWwIIyagWrqUOUYJAM9wsMeB
+vZrDfexKlwvmY4myS22tRtabWU4xYD1t36oiHYoBjb73Tv81uXxb7trWluzX5toW
+3PjPX7644rrfWj46u3jdxO/llx8vzN1y+9jRc+0zoPac/rq/MHv+4/vQtsmxlqvf
+TL/QbH4+esWUKw9V3MdaO051rJw81re2ZenuCy8dzz/82h/vn5/rvvvs9hN3rjrw
+09FPJj9t6758bt8xcujEwuWNsYV3Lerd0DET50+Ozy29129OP7+g8UNj6v6Bibmb
+3mo+2ffZpv099a71R3p2w6+Hm6+M3XDm0oEPm4fW/Lz2ibe/77mnvWfzdzuOb9yo
+Xu0VD657cVH/7K0H36zoTRe6V16e2nllet/II5MX98sH9OK9hZ3j27e2ntxxaT0s
+n3hq8Flz5PVlS1Yv+2pz/Yur49Ga1c/8kr9tSbl0emrvqejmO97Y9dzTX/4JYAxc
+UA==
+=75P8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alx
+
+==================================================================
